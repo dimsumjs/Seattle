@@ -2,10 +2,10 @@
 ##Let us all meet and eat
 
 ###Where
-????
+[O'Asia](http://www.yelp.com/biz/o-asian-kitchen-seattle)
 
 ###When
-???
+1pm on Sunday July 5th
 
 ###Ham sui gok
 Yes please
