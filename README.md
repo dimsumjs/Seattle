@@ -2,12 +2,15 @@
 ##Let us all meet and eat
 
 ###Where
-[O'Asia](http://www.yelp.com/biz/o-asian-kitchen-seattle)
+[O'Asian](http://www.yelp.com/biz/o-asian-kitchen-seattle) in downtown Seattle
 
 ###When
-1pm on Sunday July 5th
+Usually lunchtime on a weekday. Check the issues to see if one is planned or in planning.
 
-###Ham sui gok
+###Honey walnut shrimp
 Yes please
 
 ![OMNOM](https://dl.dropboxusercontent.com/u/7351705/gifs/omnomnom/nom-adventure-time.gif)
+
+###But I don't JavaScript!
+That's totally fine! If you write code for web pages, you are welcome. 
