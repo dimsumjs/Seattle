@@ -5,7 +5,7 @@
 [O'Asian](http://www.yelp.com/biz/o-asian-kitchen-seattle) in downtown Seattle
 
 ###When
-Usually lunchtime on a weekday. Check the issues to see if one is planned or in planning.
+Every month. Third Tuesday at Noon.
 
 ###Honey walnut shrimp
 Yes please
