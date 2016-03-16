@@ -2,7 +2,7 @@
 ##Let us all meet and eat
 
 ###Where
-[O'Asian](http://www.yelp.com/biz/o-asian-kitchen-seattle) in downtown Seattle
+(Depends on day - see issues for each month's event.)
 
 ###When
 Every month. Third Tuesday at Noon.
