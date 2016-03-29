@@ -2,7 +2,9 @@
 ##Let us all meet and eat
 
 ###Where
-(Depends on day - see issues for each month's event.)
+Purple Dot (this might change)<br>
+515 Maynard Ave S<br>
+Seattle, WA 98104
 
 ###When
 Every month. Third Tuesday at Noon.
